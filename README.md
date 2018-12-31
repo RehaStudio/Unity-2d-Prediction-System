@@ -14,8 +14,11 @@ I use velocity. And prediction system work on velocity. No AddForce.
 Prediction System Script
 
 public Rigidbody2D rigi; // It is your ball rigidbody
+
 Prediction_Objects // Your prediction game object. It is draw the path.
+
 speed  // Your ball's speed. Prediction system . It will adapt to the speed of the ball. And it will be right
+
 space // Distance between prediction objects
 
 And i use Pooling.
