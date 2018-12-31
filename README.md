@@ -21,6 +21,6 @@ speed  // Your ball's speed. Prediction system . It will adapt to the speed of t
 
 space // Distance between prediction objects
 
-And i use Pooling.
+And i use Object Pooling.
 
 Thanks Everybody!
